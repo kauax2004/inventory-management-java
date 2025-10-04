@@ -1,8 +1,8 @@
 # Sistema de Estoque em Java
 
-Este projeto é um sistema de gerenciamento de estoque desenvolvido em **Java** como parte de um trabalho acadêmico. O projeto foi feito com foco em praticar **Programação Orientada a Objetos (POO)**, organização em pacotes e boas práticas de desenvolvimento. 
+Este projeto é um sistema de gerenciamento de estoque desenvolvido em **Java** como parte de um trabalho acadêmico. 
+O projeto foi feito com foco em praticar **Programação Orientada a Objetos (POO)**, organização em pacotes e boas práticas de desenvolvimento. 
 Ele permite **cadastrar**, **remover**, **atualizar** e **listar produtos**.
-
 
 ---
 
